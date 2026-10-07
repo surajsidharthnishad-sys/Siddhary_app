@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:2:1-6:15
+INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:2:1-6:15
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:2:14-52
+	android:icon
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:2:53-101
+	android:theme
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:2:102-160
+activity#com.example.siddhary.MainActivity
+ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:3:1-5:12
+	android:exported
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:3:40-63
+	android:name
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:3:11-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:4:1-142
+action#android.intent.action.MAIN
+ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:4:16-67
+	android:name
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:4:24-65
+category#android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:4:67-126
+	android:name
+		ADDED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml:4:77-124
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/siddhary_app/app/src/main/AndroidManifest.xml

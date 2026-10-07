@@ -1,0 +1,7 @@
+com.example.siddhary.app-pngs-0 /data/data/com.termux/files/home/siddhary_app/app/build/generated/res/pngs/debug
+com.example.siddhary.app-resValues-1 /data/data/com.termux/files/home/siddhary_app/app/build/generated/res/resValues/debug
+com.example.siddhary.app-packageDebugResources-2 /data/data/com.termux/files/home/siddhary_app/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.siddhary.app-packageDebugResources-3 /data/data/com.termux/files/home/siddhary_app/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.siddhary.app-debug-4 /data/data/com.termux/files/home/siddhary_app/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.siddhary.app-debug-5 /data/data/com.termux/files/home/siddhary_app/app/src/debug/res
+com.example.siddhary.app-main-6 /data/data/com.termux/files/home/siddhary_app/app/src/main/res
